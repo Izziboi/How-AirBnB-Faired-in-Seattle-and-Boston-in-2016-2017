@@ -7,7 +7,8 @@ In this repository, there are the following files:
 1. boston_airbnb: This is the python program used to analyze the Boston data as compiled by AirBnB. It was created with Jupyter notebook.
 2. seattle_airbnb: This is the python program used to analyze the Seattle data as compiled by AirBnB. It was also created with Jupyter notebook.
 3. seattle_boston: This is a zip file of the datasets of both cities. Inside it are files boston_data and seattle_data, both of which are csv files.
-A quick visualization of the files show that they are identical in structure, with 4 columns each, namely 'listing_id', 'date', 'available' and 'price'.
+The python packages used in this work are numpy and pandas.
+With pandas, visualization of the files shows that they are identical in structure, with 4 columns each, namely 'listing_id', 'date', 'available' and 'price'.
 
 Analysis and Findings: 
 Several analyses were conducted with findings made. It should be noted that Seattle is a large city and so, there were very many listings in the period under review. On the other hand, Boston is not as large and busy as Seattle. These economic factors possibly influenced the business activities that took place over the period. 
