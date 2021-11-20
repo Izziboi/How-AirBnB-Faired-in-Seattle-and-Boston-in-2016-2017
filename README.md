@@ -20,7 +20,7 @@ In Seattle, a total of 3,723 different listing ids featured, while 2,906 feature
 
 About listing dates, a total of 365 different dates featured over the period. In Seattle the most frequently featured date was 2017-01-01. It featured for 2,922 times. Similarly, in Boston the most frequently featured date was 2016-12-04 and it featured for 2,207 times. Conversely, the least frequently featured date in Seattle was 2016-01-04 and it featured for 1,735 times, while that of Boston was 2016-09-06 and it featured for 570 times. These frequencies denote the number of accommodations listed in those dates.
 
-In terms of accommodation price, 669 different prices featured for the various Seattle accommodations. In Boston, the range was rather wider – 1,246 different price tags. Coincidentally, the mode of price tag for accommodations for both cities was $150.00. For Seattle accommodations, its frequency was 36,646 times, while its frequency was 20,752 times in Boston. In both cities again, the price tags with the lowest frequency featured only once. In Seattle, there were 66 of such different price tags, while there were 225 of such in Boston.
+In terms of accommodation prices, 669 different prices featured for the various Seattle accommodations. In Boston, the range was rather wider – 1,246 different price tags. Coincidentally, the mode of price tag for accommodations for both cities was $150.00. For Seattle accommodations, its frequency was 36,646 times, while its frequency was 20,752 times in Boston. In both cities again, the price tags with the lowest frequency featured only once. In Seattle, there were 66 of such different price tags, while there were 225 of such in Boston.
 
 More About the Analyses:
 
