@@ -2,8 +2,12 @@
 This work is an assessment of the tourism business of AirBnB in the cities of Seattle and Boston USA 2016-2017, through data analysis.
 
 Introduction: 
-AirBnB is a company that is into tourism. It is particularly in the business of getting home accommodations for tourists on short time basis. Some tourists prefer this type of accommodation to hotel accommodations for different reasons. The owners of these accommodations submit the details of their homes to AirBnB and they get listed with listing id, date of listing and price per night. The data analyzed in this work are two sets of data collected partly in 2016 and partly in 2017 – one for the city of Seattle in Washington State and the other for the city of Boston in Massachusetts, both in the USA. The essence is to attempt a comparison of both cities using their data. The structure of both data is identical – they are presented in four columns namely ‘listing_id’, ‘date’, ‘available’ and ‘price’.
-One listing id can be used to list many accommodations. Many accommodations can also be listed in one day (that is, one date), depending on how many individuals that decided to rent out their home accommodations per day. The ‘available’ column only holds ‘t’ for true (if the listing id has an available accommodation) or ‘f’ for false (if the listing id has no available accommodation). Some accommodations cost the same amount per night; therefore, one price can feature many times in the datasets.
+This work used python programs to analyze the data of both cities (Seattle and Boston).
+In this repository, there are the following files:
+1. boston_airbnb: This is the python program used to analyze the Boston data as compiled by AirBnB. It was created with Jupyter notebook.
+2. seattle_airbnb: This is the python program used to analyze the Seattle data as compiled by AirBnB. It was also created with Jupyter notebook.
+3. seattle_boston: This is a zip file of the datasets of both cities. Inside it are files boston_data and seattle_data, both of which are csv files.
+A quick visualization of the files show that they are identical in structure, with 4 columns each, namely 'listing_id', 'date', 'available' and 'price'.
 
 Analysis and Findings: 
 Several analyses were conducted with findings made. It should be noted that Seattle is a large city and so, there were very many listings in the period under review. On the other hand, Boston is not as large and busy as Seattle. These economic factors possibly influenced the business activities that took place over the period. 
@@ -20,6 +24,9 @@ By the foregoing, it can be deduced that in AirBnB, one listing id can be used r
 
 Conclusion: 
 Looking at the two cities – Seattle and Boston – it is safe to say that Seattle is more commercial than Boston. This is evident in the fewer number of unavailable listing ids in Seattle, as well as the higher number of maximum accommodation listings per day in Seattle. What this means is that more people list their homes for tourist accommodation in Seattle than in Boston. However, there are more price options in Boston than in Seattle. While Seattle had 669 different price options, Boston had 1,246 options. It will be a good idea to increase the price options of Seattle accommodations to create more possibilities of patronage from members of the public. Meanwhile, it seems that most tourist customers were comfortable with the price of $150.00 as evident in both cities.
+
+Acknowledgement:
+I sincerely appreciate AirBnB for allowing its data to be used for this exercise. I also thank Udacity team for her tutorials. They helped me a lot in writing the programs of this project. Next is Mosh Hamedani and Daniel Chen whose videos also helped me in the coding. I salute all the people behind this help and say, thank you.
 
 References:
 1. https://classroom.udacity.com/nanodegrees/nd025/parts/5b4ccaa7-bdcd-4ea3-9538-97673aa035c4/modules/12e3e314-fb99-47e1-967b-b6620e3cff34/lessons/1c9dcfa1-01ed-4302-858a-c14bd8173edc/concepts/ac7b8917-6765-46ec-a17a-6ebdd71d67a4
