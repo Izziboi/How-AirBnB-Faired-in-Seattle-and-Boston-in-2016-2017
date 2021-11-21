@@ -1,7 +1,10 @@
 # How-AirBnB-Fared-in-Seattle-and-Boston-in-2016-2017
-This work is an assessment of the tourism business of AirBnB in the cities of Seattle and Boston USA 2016-2017, through data analysis.
 
-Introduction: 
+Motivation:
+
+This work is an assessment of the tourism business of AirBnB in the cities of Seattle and Boston USA 2016-2017, through data analysis. The key motivating factor is the volume of home accommodations listed on AirBnB plaforms. The analyst therefore decided to analyze the data to find out more about what goes on in this business in these two chosen cities.
+
+Repository Files: 
 
 This work used python programs to analyze the data of both cities (Seattle and Boston).
 In this repository, there are the following files:
@@ -9,7 +12,9 @@ In this repository, there are the following files:
 2. seattle_airbnb: This is the python program used to analyze the Seattle data as compiled by AirBnB. It was also created with Jupyter notebook.
 3. seattle_boston: This is a zip file of the datasets of both cities. Inside it are files boston_data and seattle_data, both of which are csv files.
 
-The python packages used in this work are numpy and pandas.
+Libraries Used:
+
+The python libraries used in this work are numpy and pandas.
 With pandas, visualization of the files shows that they are identical in structure, with 4 columns each, namely 'listing_id', 'date', 'available' and 'price'.
 
 Analysis and Findings: 
@@ -28,11 +33,11 @@ In the programs used to analyze the data, there are many functions one can use t
 
 Summary: 
 
-By the foregoing, it can be deduced that in AirBnB, one listing id can be used repeatedly to list different accommodations. It can also be inferred that hosts can have their accommodations listed on AirBnB platform on any day of the year, including Christmas day. This means that AirBnB works all year round. Furthermore, as many accommodations as possible can be listed in a day, with different price tags according to peculiar factors considered by AirBnB. This means that there is no limit to the number of accommodations that can be listed in one day.
+Looking at the two cities – Seattle and Boston – it is safe to say that Seattle is more commercial than Boston. This is evident in the fewer number of unavailable listing ids, as well as the higher number of maximum accommodation listings per day in Seattle. What this means is that more people list their homes for tourist accommodation in Seattle than in Boston. However, there are more price options in Boston than in Seattle. While Seattle had 669 different price options, Boston had 1,246 options. It will be a good idea to increase the price options of Seattle accommodations to create more possibilities of patronage from members of the public. Meanwhile, it seems that most tourist customers were comfortable with the price of $150.00 as evident in both cities.
 
 Conclusion: 
 
-Looking at the two cities – Seattle and Boston – it is safe to say that Seattle is more commercial than Boston. This is evident in the fewer number of unavailable listing ids in Seattle, as well as the higher number of maximum accommodation listings per day in Seattle. What this means is that more people list their homes for tourist accommodation in Seattle than in Boston. However, there are more price options in Boston than in Seattle. While Seattle had 669 different price options, Boston had 1,246 options. It will be a good idea to increase the price options of Seattle accommodations to create more possibilities of patronage from members of the public. Meanwhile, it seems that most tourist customers were comfortable with the price of $150.00 as evident in both cities.
+By the foregoing, it can be deduced that in AirBnB, one listing id can be used repeatedly to list different accommodations. It can also be inferred that hosts can have their accommodations listed on AirBnB platform on any day of the year, including Christmas day. This means that AirBnB works all year round. Furthermore, as many accommodations as possible can be listed in a day, with different price tags according to peculiar factors considered by AirBnB. The implication is that there is no limit to the number of accommodations that can be listed in one day.
 
 Acknowledgement:
 
