@@ -39,6 +39,8 @@ Conclusion:
 
 By the foregoing, it can be deduced that in AirBnB, one listing id can be used repeatedly to list different accommodations. It can also be inferred that hosts can have their accommodations listed on AirBnB platform on any day of the year, including Christmas day. This means that AirBnB works all year round. Furthermore, as many accommodations as possible can be listed in a day, with different price tags according to peculiar factors considered by AirBnB. The implication is that there is no limit to the number of accommodations that can be listed in one day.
 
+For a non-technical version of this report, please visit https://medium.com/@israeletu/how-airbnb-fared-in-seattle-and-boston-in-2016-2017-f40053d35db1.
+
 Acknowledgement:
 
 I sincerely appreciate AirBnB for allowing its data to be used for this exercise. I also thank Udacity team for her tutorials. They helped me a lot in writing the programs of this project. Next is Mosh Hamedani and Daniel Chen whose videos also helped me in the coding. I salute all the people behind this help and say, thank you.
